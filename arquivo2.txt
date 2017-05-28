@@ -1,0 +1,1 @@
+Este é o arquivo2 criado na branch test2.
